@@ -1,0 +1,22 @@
+{
+  "name": "pubsubapi",
+  "version": "1.0.0",
+  "description": "Setting up a PubSubAPI connection with Node.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.6.11",
+    "@grpc/proto-loader": "^0.7.2",
+    "avro-js": "^1.11.1",
+    "certifi": "^14.5.15",
+    "dotenv": "^16.0.2",
+    "isomorphic-fetch": "^3.0.0",
+    "jsforce": "^1.11.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}

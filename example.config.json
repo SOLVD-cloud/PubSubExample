@@ -1,0 +1,7 @@
+{
+    "myDomain": "https://your-domain.sandbox.my.salesforce.com",
+    "apiVersion": "54.0",
+    "consumerKey": "YOUR-UNIQUE-CONSUMER-KEY",
+    "salesforceUsername": "your-user-name@your-org.com.sandbox-name",
+    "salesforceAuthServer": "https://test.salesforce.com"
+  }
